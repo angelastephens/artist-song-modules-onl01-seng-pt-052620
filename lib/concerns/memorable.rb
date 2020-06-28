@@ -9,5 +9,7 @@ module Memorable
     all.count
   end
  end
+ 
+ 
   
 end
