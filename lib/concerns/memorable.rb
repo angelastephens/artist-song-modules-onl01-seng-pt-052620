@@ -10,6 +10,10 @@ module Memorable
   end
  end
  
- 
+ module InstanceMethods
+   def initialize
+    @@artists << self
+    @songs = []
+  end
   
 end
