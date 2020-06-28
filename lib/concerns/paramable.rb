@@ -4,10 +4,5 @@ module Findable
     name.downcase.gsub(' ', '-')
   end
     
-    
-    
-    
-    
-    
 
 end
